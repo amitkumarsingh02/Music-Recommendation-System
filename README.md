@@ -7,7 +7,6 @@ Please refer PDF for details of this project.
 | ------------- | ------------- |
 | Ensemble  | 0.87752  |
 | Random forest  | 0.87683  |
-
 | Gradient Boosted Tree Classification  | 0.87677  |
 | Sum (Artist * 0.8 + Album * 0.15 + Mean (Genre [1-21]) * 0.05  | 0.87050  |
 | Mean (Artist * 0.7, Album * 0.2, Sum (Genre [1-21]) * 0.1)  | 0.87022  |
