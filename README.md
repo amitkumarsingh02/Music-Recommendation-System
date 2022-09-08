@@ -1,6 +1,9 @@
 # music-recommendation-system
 Yahoo Music Recommendation
 
+Name : Music_Recommender
+https://www.kaggle.com/competitions/2022spring-ee627
+
 Please refer PDF for details of this project.
 
 | Methods  | Score |
